@@ -1,4 +1,4 @@
-/* Julie Anderson */
+/*Nicolas Dorsett*/
 
 /* body and wrapper styles */
 
@@ -89,7 +89,7 @@ section#content {
 	width: 18%;
 	float: left;
 	text-align: center;
-	
+
 	position: relative;
 	bottom: 85px;
 }
@@ -114,7 +114,7 @@ section#content {
 #ddd, #languages{
 	width: 100%;
 	margin: 0 15%;
-	
+
 }
 
 /* eitc paragraph styles */
@@ -182,7 +182,7 @@ footer h1, footer p{
 
 footer img {
 	width: 25%;
-	
+
 }
 
 footer hr, .box hr{
@@ -294,4 +294,3 @@ footer#aboutfooter hr {
 	}
 
 }
-
